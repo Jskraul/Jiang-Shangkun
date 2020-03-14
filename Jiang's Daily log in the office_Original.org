@@ -1,0 +1,1008 @@
+# -*- mode: org; -*-
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/bigblow/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/bigblow/css/bigblow.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/bigblow/css/hideshow.css"/>
+
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/jquery-1.11.0.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/jquery-ui-1.10.2.min.js"></script>
+
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/jquery.localscroll-min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/jquery.zclip.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/bigblow.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/hideshow.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/lib/js/jquery.stickytableheaders.min.js"></script>
+
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:{} arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:t f:t inline:t num:t
+#+OPTIONS: p:t pri:t prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+
+#+TITLE: Jiang's Daily Log
+#+DATE: <2019-08-26 Mon>
+
+#+AUTHOR: Jiang Shangkun
+#+EMAIL: shangkun@birket.com
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+
+#+TODO: TODO(t) NEXT(n) PART(p) TEST(s) WAIT(w) | DONE(d) KILL(k)
+
+# See the Org-Mode help file. 
+# Press F1 i d and choose Org-Mode from the info directory.
+# ctl-c ctl-t to make TODO mark.
+# shift-Left/Right to change TODO mark.
+# ctl-c ctl-q to change TODO keywords.
+# ctl-c , to change TODO priority.
+# ctl-c ctl-s to schedule a time for a task.
+# ctl-c ctl-d to set deadline.
+# ctl-c / to search.
+# ctl-c . to make a day-stamp. Hold shift to move day on calendar. Enter.
+# ctl-u ctl-c . to make a time-stamp. Enter for now or type time.
+# Use [tab] to optionally indent any line or selection appropriately.
+# Use shift-[tab] to expand all titles.~s
+# Use ctl-c ctl-c to toggle check-list items.
+# Use alt-w to copy selected.
+# Use ctl-c ctl-x v to copy plain text.
+# Use ctl-y to paste.
+# Use ctl-k to cut & erase selected.
+# Use ctl-c ctl-l to insert link.
+# Use ctl-c ctl-x 
+# Use ctr-v to toggle inline image display.
+# Use ctl-g to termiate command.
+# Use ctl-/ to cancel last operation.
+# Use ctl-c [ to add current file to agenda.
+# Use alt-x org-agenda to open agenda view- m to search keywords, a to show weekly/daily, 
+
+
+This document instructs how to edit and maintain a site log & test plan using Emacs - Org Mode.
+
+- [[http://www.gnu.org/software/emacs/][GNU Emacs]].
+- [[https://orgmode.org/][Org Mode]].
+  
+
+* Today
+
+** <2020-03-14 Sat> ..
+
+** To Do list
+*** Daily temperature log
+*** 16-Arm & Junior Coaster Safety issue from David
+*** Study the Emails from Dan and Mac
+*** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+*** Expense report needs be discussed with all the engineers
+*** Review the documents from Universal
+*** Need be update the 16-Arm SAT document to add the diagnositic for the over speed sensors
+
+
+*** 4308 DDR review comments
+*** Learn on Alcorn
+*** Learn on FactoryTalkView SE
+
+Started working at <2020-03-14 Sat 18:09>
+
+** Misc
+*** Engineers temperature log
+*** Downloading the 4308 DDR comments and sent to Parker and Dean
+*** Sent the power disconnect part number and link to Adam
+*** No software available on Rockwell website
+*** Emailed out for the Rockwell liscence borrowing
+
+
+* Log
+
+** <2020-03-13 Fri> ..
+
+*** To Do list
+**** Daily temperature log
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Study the Emails from Dan and Mac
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+**** Expense report needs be pulished today
+**** Review the documents from Universal
+**** Need be update the 16-Arm SAT document to add the diagnositic for the over speed sensors
+
+
+*** Morning Items
+**** Discussion with David about the two rides status
+**** David told site people that put the DBR lay on the top of the enclosure
+**** Wonder confirmed the part number for AMX
+**** VPN Works
+
+*** Realized that lost many of the information in the logs
+**** Copy from temp file and get it done at <2020-03-13 Fri 11:16>
+
+*** Julia will help check with hotel to see if we can pay them through BEA dirrectly
+
+*** Misc items in the morning
+**** Reviewed Neo's review on the stage lift and uploaded to Sharepoint
+**** Asked Cai to help on the power disconnect needed by Adam
+**** Dennis mentioned that GH will do the power failur test for 12 Arm this afternoon
+**** Discussion with Minnie about Michael hours should be in 3010 not 3050
+**** Erik from UBR lighting confirms we need an extra BOB for the maintenance arm
+**** Done for the Morning at <2020-03-13 Fri 12:52>
+
+*** Back to work at <2020-03-13 Fri 13:36>
+**** Checked on the Bob box location for 12 Arm lighting system
+
+*** Discussion with Julia and Winnie about the hotel
+**** Jiang will pay for next week hotel
+**** We'll decide whether changing to another hotel before next Friday
+**** Will check with each engineer about hotel tomorrow
+
+*** Reivewed Micey's translation for IAPPA
+
+*** GH tested the power failure by switching off the network switch
+**** It's not acceptable to UBR even at a low speed
+**** GH needs figure out a way to deal with it
+
+*** Talked to Neo about the VTT and Netsuite
+**** Need mention to everyone that if annaul leave then charge to timesheet
+**** Need check on how to fill hours for the 3 ITMation rides
+**** Confirmed with Jerry about the above at <2020-03-13 Fri 19:01>
+
+*** Discussion with Julia and Winnie about the hotel
+**** Company will find hotel for each engineer
+**** Winnie prefers higher hotel expenses because of the 5% markup
+
+*** Cai is helping on search on the power disconect enclosure needed.
+**** Sent some pictures for Adam to confirm
+
+** <2020-03-12 Thu> ..
+
+*** To Do list
+**** Daily temperature log
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Study the Emails from Dan and Mac
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+**** Expense report update <2020-03-13 Fri 09:08> Done and updaated according to Winnie's new comments
+**** Review the documents from Universal
+**** Need be update the 16-Arm SAT document to add the diagnositic for the over speed sensors
+
+*** 12-Arm is planning for facility power fauilure test in GH <2020-03-12 Thu 08:40>
+**** Checking with Dennis if the UPS status is monitored  <2020-03-13 Fri 09:09> GH will test this in Zhongshan very soon
+*** Back to work at <2020-03-12 Thu 09:34>
+
+*** 3 Office Meeting 
+**** Plan for the next several weeks are to help UBR whatever is needed
+**** 4183 is having PYT teminal isstallation issue
+**** Sara is taking over from Stanley from April
+*** Misc items
+**** Discussion with Sara about the 3 rides status
+**** Checked with Wonder about the new part number for the AMX parts
+**** Discussion with Zhao Zhao and Tian about the DBR installation
+**** Discussion with Stanley about the lighting system for the 12 Arm <2020-03-13 Fri 09:11> Universal need a 13th Bob box for the maintenance arm
+**** Shared the site map with all the engineers in the Wechat group.
+**** Asked Dennis help buy containers for anybody who needs
+**** Will talk to everyboday about the hotel after the quarantine time
+
+** <2020-03-11 Wed> ..
+
+*** To Do list
+**** 16-Arm & Junior Coaster Safety issue from David    <2020-03-12 Thu 08:22>  Mainly discussion with Dan
+**** Study the Emails from Dan and Mac <2020-03-12 Thu 08:22>  Skypped with Dan about SISTEMA question
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+**** Expense report update
+*** Review the documents from Universal
+**** Upload the review documents to Sharepoints <2020-03-12 Thu 08:21> done, Jerry also made his update
+**** Need be update the 16-Arm SAT document to add the diagnositic for the over speed sensors
+
+*** Morning items
+**** Assigned Dean on the 12-Arm lighitng system for the THOP, O&M manual and the SAT document
+**** Emailed Stanely about whether the lighting SAT in our original scope
+**** Replied Jerry's email about the translation files 
+**** Submited the daily temperature report
+**** Breakfast time <2020-03-11 Wed 08:30>
+
+*** Back to work
+**** Checked about Yang Bo and Dennis's working shoes, arrived in Dennis's room
+**** Creat a folder for translation in 4284
+**** Checked with Lyndi about the IR EMiter and the AMX parts needed from Wonder <2020-03-12 Thu 08:24> Lyndi is checking on the price
+
+*** Starts focus on Dan's email chai <2020-03-11 Wed>
+**** <2020-03-12 Thu 08:24> Replied Dan's email about his question on the lock status and the SF-03 cabin door lock
+**** <2020-03-12 Thu 08:26> Checked with Zhao Zhao about the gate lock
+**** <2020-03-12 Thu 08:37> Worked with Eric on his question on 1756-CN2 module
+
+
+
+*** <2020-03-10 Tue> ...
+
+*** To Do list
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Neo will checkin today                      Done <2020-03-11 Wed 07:49>
+**** Checking with Sunny to buy the test components for the FireLinx Ethernet PCB  Done <2020-03-11 Wed 07:49> All the parts will arrive next Tuesday 
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+**** Expense report update                       Not done <2020-03-11 Wed 07:50>
+**** Review the documents from Universal         Not done<2020-03-11 Wed 07:51>
+**** May need help check on the nylon washer for WW PYT        Felish is on it <2020-03-11 Wed 07:51>
+**** Vivian will receive the PCBs from Wellex, we need check on the shipping plan   Received and Checking with US about this <2020-03-11 Wed 07:52>
+
+*** Morning items
+**** Timesheet reivew;  Done<2020-03-11 Wed 07:52>
+**** Documents for Neo  Done<2020-03-11 Wed 07:52> 
+**** Checked on the VTT for John and Dennis   They are approved <2020-03-11 Wed 07:52>
+**** Dennis will need more hours on WW FCS review
+*** Started working on the Sistema for 3128
+**** Struggled on the performance level of the Restraint lock  Still on it <2020-03-11 Wed 07:52>
+
+** <2020-03-09 Mon> ...
+
+*** To Do list
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Check with each engineer on their status
+**** Prepare the document for park entry
+**** Bring Neo to Beijing
+**** Checking with Sunny to buy the test components for the FireLinx Ethernet PCB
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+
+
+*** Checked with Winnie about the expense report
+**** Updated and sent to Julia and Winnie for review
+
+*** Checked with Phil about Neo's VTT and expense project number
+**** Julia helped on the hotel checking
+**** Phil need his train ticket soft copy
+**** Neo also need fill in his resgistration for UBR site
+
+*** Emailed Dan about the SF for 3024 Gate lock/unlock
+
+*** Completed the reivew for the manual translation
+*** Discussion with Zhao Zhao and Tian about the DBR installation
+**** GH may update the top cover of the RCS to bring the cables in.
+
+*** Asked Jingjie to work in the office from 3.10
+**** Michael didn't ask for day off while not in the office
+**** He sent a email for sick leave later
+*** Helped on the commitment letter for each engineer in Beijing
+
+** <2020-03-08 Sun> ...
+
+*** To Do list
+**** Worked on the Engineers review
+**** Expense report draft
+
+*** Got the review comments done and sent to GB at <2020-03-08 Sun 17:09>
+
+*** Stared working on the draft for engineers expense report proceduer at <2020-03-08 Sun 17:14>
+
+**** Got the draft version done and sent to Winnie
+
+*** To Do List for tomorrow
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Check with each engineer on their status
+**** Prepare the document for park entry
+
+** <2020-03-06 Fri>...
+
+
+*** To Do list at <2020-03-06 Fri 08:55>
+**** Work on GB's email on annual reviews
+**** Review John's translation
+**** Sistema update for 3128
+**** Cory's email about the parts need buy
+**** VTT status checking for everyone
+**** Engineers status sheet update
+**** Checked on the SAT documents and Sistema file for 16 Arm ride
+**** Temperature collecting for everyone
+
+*** Worked on the 3206 Ethernet PCB
+**** Went through the email from Cory on the procedure
+**** Emailed Sunny about the three parts needed
+
+*** From Winnie, train tickets will be paid to engineers directly not to expense report
+*** All the expense report questions, should go to Jiang. Then Jiang will talk to Winnie
+
+*** Worked on the VTT status report to Phil
+
+*** Worked on the VTT contract changes fro Cai
+*** Checked with Phil about daiy travel expenses between the site and hotel
+
+*** Dicussion with Winnie about engineers task
+**** I'll talk to Brian every Monday to confirm the task for each engineer
+**** Then I'll tell everyone their tasks
+
+*** Reviewed John's translation review
+**** not good
+**** Some of the phrase are in the dictionary but he didn't use them
+**** There are obvious faults he didn't find, like the locking pin
+
+*** Things for tomorrow,
+**** update the 3128 Sistema
+
+** <2020-03-05 Thu>...
+
+*** Worked on the email to Maggie
+**** Checked with Vivian about production schedule for 4183 Ethernet PCB
+**** Checked with Sunny about 4183 FAT schedule
+
+*** To Do list
+**** Work on GB's email on annual reviews
+**** Review John's translation
+**** Sistema update for 3128
+**** Yang Bo Check in
+
+*** 3 Office meeting at <2020-03-05 Thu 11:11>
+**** There may be requirement from Universal to help find the misc part for GCs and SSEC. The request is from Rich Cox
+**** Need Li Jian and Bob get to Beijing as soon as we can
+
+*** Started working on the Sistema at <2020-03-05 Thu 14:52>
+
+*** Helped Yang Bo Check in
+
+*** Meeting with Winnie about expense report at<2020-03-05 Thu 16:42>
+
+**** Expense report BEA has issue because it's not easy to bring RMB into the Mainland.
+
+**** Hotel Ctrip or Receive money from HongKong or paid by Jiang
+**** Train Ticket information sent to who need be decided with Winnie
+**** Expense report, Due date: 1st day noon of the month
+**** Universal expense report, Need
+**** Site period sheets prepared so that accounting people can use for reference when reviewing the expense report (especially for the Perdiam)
+**** Netsuit holiday notice to engineers
+**** Engineer buy tickets by themself and Xie will pay them directly so the train ticket won't be in the expense report
+**** Engineer input all the information and submit on the last date
+**** Transportation between site and hotel is not reimbursable. Check with Brian.
+**** CC Winnie when email all the engineers about expense report
+**** Meeting is done at <2020-03-05 Thu 17:51>
+
+** <2020-03-04 Wed>...
+
+*** Worked on the email to replay Felisha
+**** I can work on a list and send to Felisha for Review at weekend <2020-03-04 Wed 09:32>
+
+*** To Do list
+**** Work on GB's email on annual reviews
+**** Review 3128 SAT document
+**** Check on 3021 schedule
+**** VTT checking
+**** Expense report
+**** Maintenance on the Beijing Team
+**** Checked on John's progress on the translation
+**** Fapiao to Jiaojiao
+
+*** Go to see the VTT at <2020-03-04 Wed 09:37>
+**** It's apporved
+
+*** Talked to John about the translation review
+*** Went back to work after some excersize at <2020-03-04 Wed 10:36>
+
+*** Check on John question on the translation at <2020-03-04 Wed 10:41>
+**** Get it done and asked for Atol Gate fro review from John. John will also work on Sting
+
+*** Check with Jerry on John's Sting hour
+*** Timesheet review at <2020-03-04 Wed 11:09>
+**** worked on Jerry's email about John's hours
+**** Worked on Train information to Phil
+**** Asked Tony check to the ticket
+**** Get the timesheet review done at <2020-03-04 Wed 12:36>
+*** Order Lunch at <2020-03-04 Wed 12:36>
+
+*** Come back for work at <2020-03-04 Wed 15:24>
+**** Discussion with John about VTT and timesheet filling, add covered by VTT comments for now
+**** checked on the backpack label for BK
+**** Checked with Bob on the Confirm button SAT in 3128
+**** Discussiong with Dean on the drive names
+**** Not all the expenses for UBR will be approved
+**** Checked with Julia about Tony's hotel issue
+**** Checked with Dennis and Yang Bo about their trip
+**** Checked with WInnie to confirm that no need to pay the hotel during checkin
+
+*** Now starts working on 3128 SAT document update at <2020-03-04 Wed 16:00>
+**** Updated the SAT documents according to the FMEA number update and the comments from David
+**** Helped Dennis get checked in the hotel
+**** Worked with Parker to get the translation for 4183 sending to BK for review submital
+**** 3206 Ethernet PCB board production schedule
+
+
+
+
+** <2020-02-28 Fri> Worked on the engineers inforamtion and tools for most of the morning;
+*** Discussed with Winnie about the UBR sorking
+**** VTT filling need be done no later than one week. She prefers to fill VTT and timesheet
+**** Laundry fee will be reimbursable
+**** Internet hotspot is also rembursable
+**** Daily public transportation may be rembursable
+**** If there is not a dedicated task in VTT, she prefers to fill in hours to the projects related
+**** Expense report deadline will be moved to 20th.
+*** Check back on the 12 Arm site schedule at <2020-02-28 Fri 13:59>
+
+
+*** haven't started yet due to discussion with Zhao, Bob, Dennis and Lyndi;
+*** Dennis may be can travel to Beijing directly if we can take his laptop to Beijing
+
+*** Still not get a chance to work on the schedule. Mainly on the things for next Monday trip
+
+
+
+** <2020-02-27 Thu>...
+
+*** Started working on the daily log at <2020-02-27 Thu 08:43>
+*** Got the temperature log and the UBR daily log done at <2020-02-27 Thu 09:14>
+*** Went through the emails about UBR site and 3090 new issues;
+
+*** Started updating the 3128 SAT document
+
+*** Done with the 3 office meeting at <2020-02-27 Thu 10:54>
+****GB is pushing Mike on bring Shanghai engineers on board
+**** Minions will be dust free in one day or two
+**** Potter maintenance bay will be powered up soon and then may bring Li Jian back to Beijing
+**** ITMation has a Rockwell resource available for UBR
+
+*** Back on the SAT document update at <2020-02-27 Thu 11:12>
+*** Worked on the engieers arrangement for moving to Beijing for most of the afternoon
+
+
+
+** <2020-02-26 Wed>...
+
+*** Started from Felisha's email on the brackets for 3195 installation
+
+****  Keep the Qty for the foot brakcets and decreased the Qty for the vertical brackets
+
+*** Replied Jerry's Email about Ms. Gao's translation in the early morning
+*** Replied Alex's Email about 3090 software
+*** Completed the UBR daily survey<2020-02-26 Wed 09:19>
+*** Today's to do list
+**** Temperature filling
+**** Checked on the Beijing hotel status
+**** 3128 FMEA update
+
+***  Asked Li Jian to help check with Beijing hotel status at <2020-02-26 Wed 09:36>
+
+*** Started working on 3128 FMEA at <2020-02-26 Wed 10:00>
+**** Ended at <2020-02-26 Wed 11:48> only got one 4 items done
+
+*** Back to work on the 3128 FMEA at <2020-02-26 Wed 13:45>
+*** Completed most of the current part at <2020-02-26 Wed 17:20>
+**** with interruption to talk to Zhao about the progress of 4183, 4303 and 4308
+**** Updated the SAT document to change the Fault reset button to Reset Alarms button
+
+
+*** Tomorrow need update the SAT document on the SF/FMEA#
+*** Check the the Power Disconnect for MCC of 12 Arms
+*** Check the part need take to site
+
+
+
+** <2020-02-25 Tue>...
+*** Phone call with Stanely on Junior Coaster and the 16 Arm schedule plan from Golden Horse
+
+**** Need 2 weeks for T&A with train instead of 5 days in the plan for Junior Coaster;
+**** IO check for 16 Arm should start after the cabins are installed;
+
+*** Reminded Xavier to submit the documents to Brian after his updates;
+
+*** Talked to Julia about the number of engineers may be sent to Beijing in the near future;
+
+*** Helped Lyndi on the circuit breaker from Phoenix;
+
+*** Start the afternoon work <2020-02-25 Tue 13:36> Test the Emacs function
+
+*** Now ready for the body temperature filling <2020-02-25 Tue 13:47>
+**** Was interrupted by Dennis request on more jobs <2020-02-25 Tue 14:03>
+**** Checked Yang Bo on his SAT document and Logix software
+**** Got back to the excel sheet at <2020-02-25 Tue 14:08>
+**** Interruppted again with Micey to get the 60 disposal masks into the carton.
+**** Tried the Excel skill: Ctrl + A for data selection; Ctrl  + T for a good layout <2020-02-25 Tue 14:14>
+**** Continued working on the temperature filling.
+**** Completed the data filling at <2020-02-25 Tue 16:47> It took much longer than I expected. Just excersing the Ctrl + PageUp and Ctrl + ->
+**** Answered Yang Bo's quesion and Sunny's during the data input;
+
+*** 16 Arm Spare part list still have version issue. Need check on this later;
+**** The updated Sparelist should be uploaded to Sharepoint
+
+** <2019-11-16 Sat>
+
+*** Started at <2019-11-16 Sat 08:27>
+*** 40.20 PF_TR4 faulted 114 uC Failure, which happened after the MCC is powered up in the morning.  Cycled the MCC power and the fault gone
+*** 45.28 Happened several time when trying to release the restraints. But worked well later, I didn't change any thing.
+**** it caused either the arm not extended or not up. Probably the extended sensors not flagged because after I confirmed the sensor is flagged, the fault didn't happen again.
+*** AB network switch username/Passward is   /switch There is no username required.
+*** Cleaned the rust inside the horn in Block B at <2019-11-16 Sat 10:28>
+*** 32.25 the Bleeding valve in shot line #1 feedback fault. Got stuck when changed from Mait mode to Xfer mode;
+**** The sensor flag is a little loose at<2019-11-16 Sat 10:46>
+
+*** Completed the yellow train first launch at <2019-11-16 Sat 12:21>
+
+*** Updated the OL current for the motors in Xfer track from 12.8A to 16.8A
+*** Changed A_Retract_Run_Rev_MAX from 76m to 76.8 according to Dylan's suggestion
+*** Changed the train identification in manual mode at <2019-11-16 Sat 13:01>
+*** 33.31 FAULTED AGAIN changed off timer from 1.6s to 3.6s, 4s to 8s; at <2019-11-16 Sat 13:27>
+*** 32.14 waring from 6.5s to 7s ,33.14 warning from 1.5s to 2.5s at <2019-11-16 Sat 14:27>
+*** 33.31 changed the EXT_HH from 0.11 to 0.15 in A_Tention_Diag_Cyl Rung #1 at <2019-11-16 Sat 14:34>
+
+*** Added Wind OK bit to Launch state 8 when all the brakes is down if the wind is OK, then it will launch the train; in Rung #26 A_Oper_Launch_Seq
+**** Checked at <2019-11-16 Sat 14:57>
+*** Added Wind OK bit to the Station_Dispatch_Permit bit Rung #20 in R_Track_Rule at<2019-11-16 Sat 15:02>
+
+*** Done for today at <2019-11-16 Sat 15:40>
+
+** <2019-11-15 Fri>...
+
+*** Started on site at around<2019-11-15 Fri 08:00>
+**** Fixed fault 34.9, the shot line 1 bleeding valve sensor got stuck.Manually cycle the valves twice and it worked;
+**** Tested the Oiler and cycled for around 10 minutes. Then found the oiler is empty and the float switch is rusted;
+**** Tested the MAG brakes in the Launch area. Serveral are faulted
+**** Tested the friction brakes. Still working but the 4th valve missing its muffler.
+**** Tested the retract clutch for around 30 seconds. Got a both on fault in the first try and then went back to normal;
+**** MAG brakes 25, 26, 27 failed to fall down.
+
+*** Started checking on 47.13 the network ring fault at <2019-11-15 Fri 08:48>
+**** Found the network cable in A-PA1 was disconnected. Connected it back and the fault got fixed. The cable maybe casuing network fault and that may be the reason it was disconnected.
+
+*** Stated checking on moving the train back and forth in the station and Xfer track <2019-11-15 Fri 08:55>
+**** It turned to be because the system is in hand mode;
+**** Still can't move the train and then found I should go to Xfer mode instead of Maint mode;
+**** Got the train moving back and forth;
+**** Tried to move the track and it worked but found the Horn no response;
+
+*** Added limit to the permission of the Clear Block button in the OCC to only allow it to release the brake in Maint mode;
+  Safety_Main in Rung 28 at<2019-11-15 Fri 09:30>
+
+*** The HPU faulted when turn the switch to Auto mode due to the timeout to build the pressure
+**** Cylced more times and it works now
+
+*** The Cylinder didn't move at all when try to extend or retract the cable then it will cause fault;
+**** Try to extend the fault timer and cycled more times. It worked better but still have warnings;At <2019-11-15 Fri 10:07>
+
+*** Try to manully move towcart
+**** 20.25 the right clutch sensors both flagged when the clutch engaged @<2019-11-15 Fri 10:37>
+**** The workers went to adjusted the sensors and the flag;
+**** Now it's working and we are still cycle the towcart @<2019-11-15 Fri 11:06>
+
+*** Temporary bypassed the network ring fault on 47.13<2019-11-15 Fri 13:11>
+
+*** Cycled the Towcart, Oiler, Hydraulic cylinder and the MAG in the launch area;
+
+*** Switched the system to Auto mode and dispatched the train to pre-Launch area @<2019-11-15 Fri 15:12>
+
+*** Auto mode only when Restraint is disabled then we can reset all the fault;
+
+*** Changed B Brake holding time from 1.2s to 0 since it's cold and an empty train.
+
+*** Launched the first one at <2019-11-15 Fri 15:40> got the timeout from B to C due to the slow speed;
+*** Had 33.31 fault during second launch and changed the timer from 2s to 3s;
+*** Done the second launch at <2019-11-15 Fri 15:50> still have 37.26 fault, will change the timer from 20s to 25s;
+*** als have the 32.30 fault changed the timer from 6s to 8s;
+*** Done the third launch at <2019-11-15 Fri 15:56> no fault, 4 MAG warnings;
+*** faulted again for 33.31 during the 4th launch, changed the timer from 3s to 4s;
+*** The 4th launch is done at <2019-11-15 Fri 16:04>; Checked the timer from B to C, it's about 21s;
+*** Changed the B friction brakes open when slow sesnors are flagged;
+*** 5th launch started at <2019-11-15 Fri 16:12>; Good launch and the friction brakes open earlier than before
+*** 6th launch started at <2019-11-15 Fri 16:19>, 33.30 faulted again, changed off timer from 2s to 4.5s;
+*** 7th launch started at <2019-11-15 Fri 16:28>
+*** 8th launch started at <2019-11-15 Fri 16:40>
+*** 9th and 10th launch are both good
+
+
+
+** <2019-09-17 Tue>...
+
+*** Start-up on the log <2019-09-17 Tue 09:22>
+- Ended at <2019-09-17 Tue 09:26>
+
+*** Timesheet review started at <2019-09-17 Tue 09:30>
+- Timesheet reivew is done at <2019-09-17 Tue 10:04>
+
+*** Email with Stanley about the 3128 MCC issue at <2019-09-17 Tue 10:04>
+- Done with the email at <2019-09-17 Tue 10:29>
+
+*** Worked on the FM/CM introduction for Lyndi at <2019-09-17 Tue 10:30>
+- Done with the FM/CM description at <2019-09-17 Tue 11:00>
+
+*** Started checking on 4183 software at <2019-09-17 Tue 11:02>
+- Done with the email to Brian at <2019-09-17 Tue 11:49>
+
+
+*** Meeting invitation to Parker for 3206 at <2019-09-17 Tue 12:56>
+
+*** Online support GH from <2019-09-17 Tue 13:30> to <2019-09-17 Tue 15:45>
+
+*** completed discussion with Vivian at <2019-09-17 Tue 16:17>
+
+*** started meeting with Dean at <2019-09-17 Tue 16:17>
+- Meeting with Dean done at <2019-09-17 Tue 17:05>
+
+*** completed email to David at <2019-09-17 Tue 17:25>
+
+** <2019-09-16 Mon>...
+
+*** Started at <2019-09-16 Mon 09:20>
+
+*** Meeting with Li jian start at <2019-09-16 Mon 09:29> and Done at <2019-09-16 Mon 10:47>
+
+*** Meeting with Bob started at <2019-09-16 Mon 11:00> and done at <2019-09-16 Mon 12:00>
+
+*** Started meeting with Cai at <2019-09-16 Mon 13:02>+
+
+- Done with the review meeting with Cai at <2019-09-16 Mon 13:33>
+
+*** 3021 remote support started at <2019-09-16 Mon 15:00> and done at <2019-09-16 Mon 16:56>
+
+*** Wuhan remote support started at <2019-09-16 Mon 16:56> and done at <2019-09-16 Mon 19:45>
+
+
+** <2019-09-12 Wed>...
+
+This is my daily log.
+
+ Start-up on the log
+Started at<2019-09-12 Thu 09:32> before this is preparing the meeting and checking emails from <2019-09-12 Thu 09:05>
+
+The meeting is done at <2019-09-12 Thu 10:00>
+
+ Checked on 3206, 4183 and 3021 projects
+
+** <2019-09-11 Wed>...
+
+
+ Start-up on the log
+- start at <2019-09-11 Wed 09:15>
+- Done at <2019-09-10 Tue 09:56>, Also checked with Vivian on the 3206 FM test preparation
+
+ Shanghai managers' meeting at <2019-09-11 Wed 10:00>
+- Done with the meeting at <2019-09-11 Wed 10:49>
+
+ Prepare for the FM test: started at <2019-09-11 Wed 11:04>
+
+ New program issues
+
+- Can't Arm Channel 2 and got stuck
+- can't turn off the power <2019-09-11 Wed 14:47>
+
+** <2019-09-10 Tue>
+ Start-up on the log
+- start at <2019-09-10 Tue 09:30>
+- Done at <2019-09-10 Tue 09:56>
+
+ Completed the survey report on Remond Lin <2019-09-10 Tue 10:22>
+
+ Continue on the PLC code rule from Dan <2019-09-10 Tue 13:31>
+
+ 2.5 hours on the lighting control system issue<2019-09-10 Tue 17:58>
+** <2019-09-09 Mon>
+Start-up on the log
+- start at <2019-09-09 Mon 09:15>
+- Done with the log <2019-09-09 Mon 09:26>
+
+Start today's plan
+
+- Li Jian on VBA
+- Tony's plan
+- 3206 further plan
+- Cai's progress on FM PCB
+- Email to Jerry for the future plan
+- Done at <2019-09-09 Mon 09:43>
+Show Cai the FM board 
+-Start at <2019-09-09 Mon 09:45>
+- Done with Cai on the handover at <2019-09-09 Mon 10:28> He need record all the TPs' voltage during this week.
+
+ Li Jian's task arrangement
+
+- Started at <2019-09-09 Mon 10:30>
+- VBA presentation
+- Finger motor pre-test and post-test
+
+- Done with Li Jian at <2019-09-09 Mon 11:00>
+
+
+ Neo's task arrangement
+
+- Check with Neo's plan
+- If nothing special, go to RSS
+- Discussion is done. Neo will go throung RSS after reviewing the drawings from Tony <2019-09-09 Mon 11:28>
+
+ Timesheet
+- Filling in timesheet <2019-09-09 Mon 11:30>
+- Stopped at <2019-09-09 Mon 11:41> haven't started yet.
+
+ Done with engineers meeting at <2019-09-09 Mon 15:01>
+
+** <2019-09-05 Thu>...
+
+
+ Completed Daily Log and meeting with BK (15 minutes)
+
+ Done with Lyndi to show her connect 6 strobe LED insery and then wire them to one channel <2019-09-05 Thu 10:51>
+
+
+** <2019-09-04 Wed> ...
+
+ Move yesterday's log to history
+- started at <2019-09-04 Wed 09:11>
+
+- Done with the log and mis things<2019-09-04 Wed 09:44>
+
+ Checke Emails
+- Started at <2019-09-04 Wed 09:45>
+- Done with the 3206 email and radio programing procedure at <2019-09-04 Wed 10:55>
+
+ Checked the project list
+
+- Paused for lunch <2019-09-04 Wed 12:03>
+
+- Done with the Email to Brian at <2019-09-04 Wed 17:15>
+
+** <2019-09-03 Tue> ...
+
+ Worked on the log file from 9:05 till <2019-09-03 Tue 09:25>
+
+ Then started to go through Email from <2019-09-03 Tue 09:26>
+- 15 minutes with Dennis on the 12-Arm further plan
+- Timesheet filling start from <2019-09-03 Tue 09:45>
+- Completed at <2019-09-03 Tue 09:54>
+
+ Manager meeting is done at <2019-09-03 Tue 11:11>
+
+
+** <2019-09-02 Mon> ...
+
+
+ Review with Bob on 3128
+
+- Started from <2019-09-02 Mon 10:18>
+
+- Done with Bob <2019-09-02 Mon 10:40>
+
+ Timesheet reivew
+
+- Started from <2019-09-02 Mon 10:53>
+
+- Done by <2019-09-02 Mon 11:06>
+
+- Continued on Bob's timesheet due to 249 category to 295 untill <2019-09-02 Mon 11:15>
+
+ Review Proposal for Soing Ann from Jill
+
+- Started from <2019-09-02 Mon 11:18>
+
+- Back from Lunch <2019-09-02 Mon 12:40>
+
+ Prepare the meeting with Cai
+
+- Started from <2019-09-02 Mon 12:40>
+
+- System structure
+
+- Individual Function
+
+- Further plan on UBR
+
+- Open project on Alcorn + FactoryTalkView + PLC
+
+- Done with preparaion <2019-09-02 Mon 12:59>
+
+ Review with Cai in the meeting room
+
+- Started at <2019-09-02 Mon 12:59>
+
+- Done at <2019-09-02 Mon 13:51>
+
+- Cai Would like on 3090 software and don't want to work with Bob;
+- Cai think 3090 should be easier than 461;
+- Cai would like be noticed advancely if planned to work on other land;
+- Showed Cai that there are at least 7 systems in Minion land but currently the three experienced engineers are all in this land;
+- We'll seperate one engineer out of this land;
+
+ Weekly Engineers meeting
+
+- Started at <2019-09-02 Mon 13:58>
+- Timesheet submitted in time
+- Vacation and OTs
+- 3206 status
+- Completed at <2019-09-02 Mon 15:30>
+
+Review meeting with Dean completed at <2019-09-02 Mon 16:24>
+
+- Dean will continue check on the missing AFs and email to Peter;
+- Dean needs the drawings for the conduit layout;
+- Dean can start transformer's drawings when 3209 is done and no further comments from BK;
+- Jiang will check with Brian on the assignment of the transformer and the rest attractions;
+
+
+
+** <2019-08-29 Wed> 
+
+
+   
+** <2019-08-27 Tue>
+
+  Move yesterday's data to log and creat today's log
+- <2019-08-27 Tue 09:30> Started creating today's log
+- <2019-08-27 Tue 09:53> Completed the structure
+
+  Went through emails
+- <2019-08-27 Tue 09:56> Just started the email chain related the power disconnect switch
+- <2019-08-27 Tue 11:58> Completed the Email to Don, FB, Alex and jerry. Plus one hour manager meeting.
+
+  Expense Report completion
+
+- <2019-08-27 Tue 13:10> Started to review the expense report
+- <2019-08-27 Tue 13:31> Submit the expense report
+
+  Mis discussion
+- <2019-08-27 Tue 13:37> Discussion with Lyndi
+-
+
+- Use "*<space>" to make a Level 1 title.
+- Use "**<space>" to make a level 2 title.
+
+  
+** <2019-08-26 Mon> Daily Log
+
+***  Learning on the Emacs example from Neo
+- <2019-08-26 Mon 16:58> Started creating today's log
+
+*** Check email from Dex Wong
+- <2019-08-26 Mon 17:00> Just started the email chain
+- <2019-08-26 Mon 17:44> Completed the first going through. Very rough. It's from the movie Sing
+
+*** Expense Report completion
+
+- <2019-08-26 Mon 17:47> Started to complete the expense report
+
+- <2019-08-26 Mon 17:56> Stoped to work on the email to Don
+
+- <2019-08-26 Mon 18:28> Completed investigation on Don's request
+
+- <2019-08-26 Mon 18:28> went back to the expense report
+
+- <2019-08-26 Mon 18:43> Not done but actually technically not started yet.
+
+- <2019-08-26 Mon 19:38> finally got the expense report done. Review tomorrow and then submit it.
+
+
+
+* Test Plan [33%]
+
+ - [[./image/5.jpg]]
+
+This section outlines the commission steps.
+
+ - Use "ctl-c ctl-t" to change TODO mark.
+   - [[./image/6.jpg]]
+
+
+** DONE Hardware Inspection [3/3]
+   SCHEDULED: <2019-08-26 Mon>
+
+    - [X] [fn:1] Discrete signal cable.
+    - [X] labels and nameplates.
+    - [X] Ethernet Cable.
+  
+** TODO Communications Test [3/4]
+   SCHEDULED: <2019-08-27 Tue>
+  
+    - [X] Communication with Audio System
+    - [X] Communication with Projector
+    - [X] Communication with Lighting Controller
+    - [ ] Communication with RCS
+
+** TODO Test Interfaces [0/5] 
+   
+*** TODO Check Audio Interface [3/4]
+    SCHEDULED: <2019-08-27 Tue>
+
+    - [X] Audio SOD
+    - [X] Audio EOD
+    - [ ] VO - EVAC
+    - [X] Mute
+
+*** TODO Check Video Interface [3/4]
+    SCHEDULED: <2019-08-28 Wed>
+
+    - [X] S.O.D
+    - [X] E.O.D
+    - [X] Show run
+    - [ ] Safety Video
+
+*** TODO Check Lighting Interface [6/7]
+    SCHEDULED: <2019-08-29 Thu>
+
+    - [X] Lighting SOD
+    - [X] Lighitng EOD
+    - [X] Maint. Lighitng
+    - [X] Emergency Lighting
+    - [X] Pre-Show Lights Dim
+    - [X] Pre-Show Walk-in Preset
+    - [ ] Pre-Show Lights Flicker
+
+*** WAIT Ride Interface
+    SCHEDULED: <2019-09-02 Mon>
+
+*** TODO Check Facility Interface [0/1]
+
+    - [ ] Fire Alarm Acitve
+
+
+
+    
+* Commission schedule
+
+| date | plan                     | scheduled hours | notes                                     |
+|------+--------------------------+-----------------+-------------------------------------------|
+| 6-24 | Test with Auido          |               8 | Audio media content is not ready for test |
+| 6-25 | Test with Lighting       |               3 |                                           |
+| 6-25 | Test with Projection     |               5 |                                           |
+| 6-26 | Meeting with all parties |               1 |                                           |
+| 6-26 | Integration with RCS     |               7 |                                           |
+| 6-27 | Creative review          |               2 |                                           |
+| 6-27 | Client review            |               2 |                                           |
+|      | total working hours      |              28 |                                           |
+
+- Use "|" to create a new table.
+- Use "ctl-c ctl-c" to re-align the table.
+- Use "|-" to add a saparate line.
+- Use "alt-<up>/<down>/<left>/<right>" to move the colume.
+- Use "alt-shift-<up>/<down>/<left>/<right>" to delete the colume.
+- Use "ctl-c +" to do a sum. And use paste to enter the value.
+
+[[./image/7.jpg]]
+
+* issues [25%]
+
+[[./image/8.jpg]]
+
+** TODO [#C] [fn:2] 1234                                           :hardware:
+   DEADLINE: <2019-08-26 周一> SCHEDULED: <2019-08-19 周一>
+   - 567
+     - 890
+
+** DONE ABCD                                                       :software:
+** TEST [#A] abcd
+** WAIT [#B] XYZ
+   SCHEDULED: <2019-09-02 Mon>
+
+
+* Help
+
+  This section contains helpful information about this file.
+
+** Task Status Keywords
+
+   Please edit the '.org' text file to track the progress, review and
+   resolution of issues in this file by updating the 'TODO' keyword in
+   the heading of issues as follows:
+
+   | Issue is...                       | Keyword |
+   |-----------------------------------+---------|
+   | Open, awaiting action             | TODO    |
+   | Work in progress                  | PART    |
+   | Awaiting test (or review)         | TEST    |
+   | Passed test (or review)           | DONE    |
+   |-----------------------------------+---------|
+   | Awaiting other action             | WAIT    |
+   | Selected for action soon          | NEXT    |
+   | Closed without completion         | DEAD    |
+
+** Command Keys
+
+   This section lists the command keys of the [[https://github.com/fniessen/org-html-themes][Bigblow]] HTML format for
+   org-mode by [[https://github.com/fniessen][Fabrice Niessen]].
+
+   | Shortcut | What it does                      |
+   |----------+-----------------------------------|
+   | ? or h   | Access the dashboard              |
+   | n        | Move to the next main heading     |
+   | p        | Move to the previous main heading |
+   | b        | Scroll up                         |
+   | <        | Scroll to top                     |
+   | >        | Scroll to bottom                  |
+   | -        | Collapse all                      |
+   | +        | Expand all                        |
+   | r        | Go to next task in list           |
+   | R        | Go to previous task in list       |
+   | q        | Stop reviewing the list of tasks  |
+   | g        | Reload the page                   |
+
+* Footnotes
+
+[[./image/9.jpg]]
+
+[fn:1] Use "ctl-c ctl-c" to toggle a check box.
+[fn:2] Use "ctl-c ," to change priority. Use "ctl-c ctl-q" to edit keywords.
