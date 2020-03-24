@@ -67,33 +67,268 @@ This document instructs how to edit and maintain a site log & test plan using Em
 
 * Today
 
-** <2020-03-14 Sat> ..
+** <2020-03-25 Wed> ..
 
 ** To Do list
+
+*** WW site walk
+*** Check on the translation files
+
+*** Check on the Parts needed by Wonder
+*** Whiteboard meeting at 10:00 am at 704 HPU room
+*** 704 HPU SSC installation
+*** 704 HPU SSC cabinets location checking
+*** 704 HPU SSC drawings and THOP checking
+*** 205 speaker cables status investigation
+
 *** Daily temperature log
+*** Neo's sticker
+*** Confirm Li Jian's VTT contract
+*** Groves needed for each engineer
+
 *** 16-Arm & Junior Coaster Safety issue from David
 *** Study the Emails from Dan and Mac
+*** Send David new SAT document
+
 *** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
-*** Expense report needs be discussed with all the engineers
-*** Review the documents from Universal
-*** Need be update the 16-Arm SAT document to add the diagnositic for the over speed sensors
-
-
-*** 4308 DDR review comments
+*** Xavier will be on a Webex FAT today and tomorrow
 *** Learn on Alcorn
 *** Learn on FactoryTalkView SE
 
-Started working at <2020-03-14 Sat 18:09>
 
-** Misc
-*** Engineers temperature log
-*** Downloading the 4308 DDR comments and sent to Parker and Dean
-*** Sent the power disconnect part number and link to Adam
-*** No software available on Rockwell website
-*** Emailed out for the Rockwell liscence borrowing
+
+
+
+
+** 704 Morning meeting
 
 
 * Log
+
+** <2020-03-24 Tue> ..
+
+*** To Do list
+**** Daily temperature log
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Study the Emails from Dan and Mac
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+**** Confirm Li Jian's VTT contract
+**** Yang Bo's sticker
+**** Groves needed for each engineer <2020-03-25 Wed 06:49> Micey is buying those together with the tool bags
+
+**** Send David new SAT document
+**** Check on the FAT requirement for FireLinx <2020-03-25 Wed 06:43> Brian is pushing Daver on it
+**** Check with Dean about 4308 update <2020-03-25 Wed 06:43> Dean completed the drawings
+**** Check on the Parts needed by Wonder <2020-03-25 Wed 06:43> The price is back but need a Quotation
+**** Whiteboard meeting at 10:00 am at 704 HPU room
+**** 205 speaker cables status investigation
+**** Check with Bob about 704 HPU SSC SAT document <2020-03-25 Wed 06:45> There is one SAT available on Sharepoint uploaded on Feb.27th
+
+**** Learn on Alcorn
+**** Learn on FactoryTalkView SE
+
+*** 704 Morning meeting
+**** Met with Mathew, Zhang from JV, Vencent, and Zeng from Runchang
+**** The EER will be bought off tomorrow, then will be ready for the RSS cabinet installation
+**** The HPU SCC cabinets will be moved out of cabinet this afternoon
+**** The HPU room will be cleaned after the SCC movement
+**** HPU cables are on the highest priority due to the rusted equipment 
+
+*** 704 HPU SSC uncrated from 1:30 pm
+
+**** The SSC needs be anchored 
+**** Runchang people will work on a bracket to mount the SSC to the ground;
+**** Emailed Jose about the mounting and cable entry of the SSCs
+**** SSC-0100 is rusted. We need a temporary power to test it
+**** The power disconnect switch is too high
+**** They will work on the doors and floors to get this room dust free as soon as possible
+
+*** Coordination on WW access
+**** Get all the information for WW access
+**** Tomorrow 4:00 pm we will have first official site walk in 2020
+
+*** Coordination on 205 spearker cable status <2020-03-25 Wed 07:01> John and Dennis on it
+
+** <2020-03-23 Mon> ..
+*** To Do list
+**** Daily temperature log
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Study the Emails from Dan and Mac
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+**** Confirm Li Jian's VTT contract
+**** Yang Bo's sticker
+**** Groves needed for each engineer
+**** Review the documents from Universal on Mar.11th
+**** Send David new SAT document
+**** Check on the FAT requirement for FireLinx
+**** Check with Dean about 4308 update
+**** Check on the Parts needed by Wonder
+**** Whiteboard meeting at 10:00 am at 704 HPU room
+**** 205 speaker cables status investigation
+**** Check with Bob about 704 HPU SSC SAT document
+**** Learn on Alcorn
+**** Learn on FactoryTalkView SE
+
+*** 10am meeting at 704 HPU room
+**** Met Mathew, Zhang from JV and the engineer from GC
+**** Fixed the SSC location. Two doors cabinet need open both front and back doors
+**** Checked the conduit and the cable trays for the whole attraction
+**** JV would like to set each box location so that they can start pulling cables
+**** Checked the status in 703, all the holes for the OCC and button boxes are precut already
+**** 701 16Arm ride HPU room is still far away from being ready
+**** GH will be responsible for the cable pulling
+**** All the SSCs and RCSes will be pulled cable from the top
+**** Talked the JV that we may need a temparory power for 704 HPU SSC to test the RSD boxes and make sure it's still working due to the rust concern
+**** Asked the plant drawings for the boxes location of 704. Zhang from JV hasn't found yet.
+
+*** Met Lin from GC for the AV cable pulling
+**** A short discussion with him to see how many cables are pulled
+**** He is still wroking on sorting out the AV cables
+
+*** Cables check in 205
+
+**** Worked with John and Dennis on the spearker cable checking with the map printed
+
+*** Site adventure to WW
+
+**** Showed John and Dennis around Water World
+**** Passed some guy's curiosity by saying we are from UD
+
+*** Checked with Tina about the speaker cables
+
+*** Checked with Zhao Zhao about the relationship between UD, JV and GC
+
+*** Phone call with Vivian about the FireLinx cost email from GB.
+
+** <2020-03-22 Sun> ..
+*** To Do list
+**** Daily temperature log
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Study the Emails from Dan and Mac
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+**** Confirm Li Jian's VTT contract
+**** Yang Bo's sticker
+**** Groves needed for each engineer
+**** Review the documents from Universal on Mar.11th
+**** Send David new SAT document
+**** Check on the FAT requirement for FireLinx
+**** Check with Dean about 4308 update
+**** Check on the Parts needed by Wonder
+**** Whiteboard meeting at 10:00 am at 704 HPU room
+**** 205 speaker cables status investigation
+**** Check with Bob about 704 HPU SSC SAT document
+**** Learn on Alcorn
+**** Learn on FactoryTalkView SE
+
+
+*** Booked another week for all the engineers' hotel
+*** Sent email to Winnie about the hotel expense
+*** Sent the PPE to each engineer
+*** Changed boots from John's
+*** Sent 704 HPU SSC drawings to JV electrical engineer
+*** Prepare for the translation review package
+*** Updated the Shanghai engineers status
+
+** <2020-03-16 Mon> ..
+
+*** To Do list
+**** Daily temperature log
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Study the Emails from Dan and Mac
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+**** Expense report needs be discussed with all the engineers <2020-03-16 Mon 22:57> explained during the meeting at 5 pm
+**** Review the documents from Universal
+**** Need be update the 16-Arm SAT document to add the diagnositic for the over speed sensors  <2020-03-16 Mon 22:57> Dennis added the tests
+**** Check with Hotel about the breakfast, book the hotel  <2020-03-16 Mon 22:58> Book the hotel to Mar.22nd and the earlist breakfast at 7:30
+**** 4308 PCB test  <2020-03-16 Mon 22:58> Ready for the test tomorrow
+
+**** 4308 DDR review comments <2020-03-16 Mon 22:59> Meeting at 9:00 and need go through the comments before the meeting
+**** Learn on Alcorn
+**** Learn on FactoryTalkView SE
+
+
+
+*** Started at <2020-03-16 Mon 08:56>
+
+**** Asked Dennis to help update the 16 Arm SAT
+**** Checking with Cai about his hotel and got his hotel room reserved to Mar.22nd
+
+*** Work on the SISTEMA for 16 Arm ride from <2020-03-16 Mon 09:31>
+**** Got the hotels booked to Mar.22nd
+**** Parker will work on the FM Ethernet PCB test
+**** Checked with Cory for detailed procedure
+
+*** Discussion on 4183 Ethernet PCB test
+
+*** Meeting for expense report
+
+*** Neo and Cai review the new translation files
+
+*** Checked with Cory about the PCB test and got what we need
+
+*** Discussion with Winnie on the expense report
+**** Worked on a expense report template for all the engineers
+
+*** Forward training invitation to all the engineers
+
+
+
+** <2020-03-15 Sun> ..
+
+*** To Do list
+**** Daily temperature log
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Study the Emails from Dan and Mac
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+**** Expense report needs be discussed with all the engineers
+**** Review the documents from Universal
+**** Need be update the 16-Arm SAT document to add the diagnositic for the over speed sensors
+
+**** Check with Hotel about the breakfast, book the hotel
+**** 4308 PCB test
+
+**** 4308 DDR review comments
+**** Learn on Alcorn
+**** Learn on FactoryTalkView SE
+
+Started working at <2020-03-14 Sat 18:09>
+
+
+*** Working on the SISTEMA file for 3128
+**** For the Entrance Gate swtich and the Restraint Gate swtich, because they are spring center syle, they are not Enabling switches
+**** The buttons and switches can be used for 20 years according to the calculation
+**** Sent email to David about the report
+**** Haven't added the Gate lock function to 16 Arm ride.
+**** Done for today <2020-03-15 Sun 23:48>
+
+
+
+** <2020-03-14 Sat> ..
+
+
+*** To Do list
+**** Daily temperature log
+**** 16-Arm & Junior Coaster Safety issue from David
+**** Study the Emails from Dan and Mac
+**** Phil mentioned that there will be a meeting on VTT for all the Shanghai engineers after the quarantine time
+**** Expense report needs be discussed with all the engineers
+**** Review the documents from Universal
+**** Need be update the 16-Arm SAT document to add the diagnositic for the over speed sensors
+
+
+**** 4308 DDR review comments
+**** Learn on Alcorn
+**** Learn on FactoryTalkView SE
+
+*** Started working at <2020-03-14 Sat 18:09>
+
+*** Misc
+**** Engineers temperature log
+**** Downloading the 4308 DDR comments and sent to Parker and Dean
+**** Sent the power disconnect part number and link to Adam
+**** No software available on Rockwell website
+**** Emailed out for the Rockwell liscence borrowing
+
 
 ** <2020-03-13 Fri> ..
 
